@@ -2,7 +2,7 @@ connection=wifi
 dhcp=yes
 ssid_name=WIFI_PUBLICS
 browser=chrome
-homepage=http://www.tourisme-vignoble-bastides.com/gaillac-360
+homepagehttps://www.tourisme-vignoble-bastides.com/content/videos360/giroussens360/tour.html
 hostname=abbaye_kiosk
 allow_icmp_protocol=yes
 primary_keyboard_layout=fr
