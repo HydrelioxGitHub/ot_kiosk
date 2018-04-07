@@ -1,0 +1,14 @@
+connection=wifi
+dhcp=yes
+ssid_name=WIFI_PUBLICS
+browser=chrome
+homepage=http://www.tourisme-vignoble-bastides.com/
+hostname=abbaye_kiosk
+allow_icmp_protocol=yes
+primary_keyboard_layout=fr
+disable_navigation_bar=yes
+scheduled_action=Monday-18:05 Tuesday-18:05 Wednesday-18:05 Thursday-18:05 Friday-18:05 Saturday-18:05 Sunday-18:05 action:halt
+root_password=toor
+rtc_wake=Monday-09:50 Tuesday-09:50 Wednesday-09:50 Thursday-09:50 Friday-09:50 Saturday-09:50 Sunday-09:50
+wake_on_lan=yes
+additional_components=uefi.zip 08-ssh.xzm 
